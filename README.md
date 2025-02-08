@@ -44,6 +44,28 @@ ai_book_notes/
 └── requirements.txt    # Project dependencies
 ```
 
+## 🚀 Roadmap
+
+### Phase 1: Core Improvements
+- [ ] Migrate to PostgreSQL for data persistence
+- [ ] Add simple email/password authentication
+- [ ] Make UI mobile-friendly
+- [ ] Add dark mode support
+- [ ] Enable note export (PDF/Markdown)
+
+### Phase 2: Note-Taking Enhancements
+- [ ] Add rich text editor
+- [ ] Implement better tag organization
+- [ ] Add image attachments to notes
+- [ ] Create better search functionality
+- [ ] Add note categories/folders
+
+### Phase 3: AI Features
+- [ ] Add AI-powered note summarization
+- [ ] Implement key insights extraction
+- [ ] Generate book recommendations
+- [ ] Add automated topic tagging
+
 ## Contributing
 
 Feel free to open issues and pull requests for any improvements you'd like to add.
